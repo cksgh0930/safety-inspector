@@ -1,4 +1,4 @@
-const CACHE_NAME = 'patrol-report-v1.0.0';
+const CACHE_NAME = 'patrol-report-v1.0.1';
 const ASSETS = [
   './',
   './index.html',
